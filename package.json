@@ -1,0 +1,22 @@
+{
+  "name": "dota2api-core",
+  "version": "1.0.0",
+  "description": "Simple module for working with Dota 2 steam api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alexei Merzliakov <dev23lx@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rhbhaahar/dota2api-core.git"
+  },
+  "homepage": "https://github.com/rhbhaahar/dota2api-core",
+  "keywords": [
+    "steam",
+    "dota",
+    "dota2",
+    "dota2 api"
+  ],
+  "license": "MIT"
+}
